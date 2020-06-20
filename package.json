@@ -1,0 +1,14 @@
+{
+  "name": "ohtube",
+  "version": "1.0.0",
+  "description": "Cloning YouTube using VanillaJs and NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OHT",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
